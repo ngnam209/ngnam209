@@ -1,0 +1,8 @@
+@media (max-width: 992px) {
+  .name {
+    display: none;
+  }
+  #target {
+    padding: 20px;
+  }
+}
